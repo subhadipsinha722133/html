@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: aquamarine;
+            background-image: url(img/2465434.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+	background-position: center;
+
+        }
+        .main{
+            border: 2px solid black;
+            padding: 50px;
+            /* background-color: antiquewhite; */
+            backdrop-filter: blur(20px);
+            color: white;
+            text-transform: uppercase;
+        }
+    </style>
+</head>
+<body>
+    <div class="main">
+        <div class="register">
+            <center><h2> register form</h2></center>
+            <form id="register" method="post"></form>
+            <label >  first name:</label>
+            <input type="text" name="fname" id="name" placeholder="enter the first name">
+            <br><br>
+            <label>last name:</label>
+            <input type="text" name="lname" id="name" placeholder="enter your last name">
+            <br><br>
+            <label >age:</label>
+            <input type="number" name="age" id="number" placeholder="enter your age">
+            <br><br>
+            <label>BMI :</label>
+            <input type="number" name="bmi" id="number" placeholder="enter your bmi">
+            <br><br>
+            <label>Email:</label>
+            <input type="email" name="email" id="number" placeholder="enter your email">
+            <br><br>
+            <gender>
+                <label> enter your gender: </label>
+                <br>
+                <input type="radio" id="male" name="gender " value="male">
+                <label for="male">male</label><br>
+                <input type="radio" id="female" name="gender " value="female">
+                <label for="female">female</label>
+            </gender>
+            <br><br>
+            <input type="submit" value="submit" name="submit" id="submit">
+        </div>
+
+
+    </div>
+</body>
+</html>
