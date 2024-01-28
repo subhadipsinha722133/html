@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRANSFORMS</title>
+    <style>
+        .box {
+            height: 50px;
+            width: 50px;
+            border: 2px solid black;
+            background-color: aqua;
+            /* transform: rotate(45deg); */
+            /* transform: rotate(0.5turn); */
+            /* transform: rotateX(50deg); */
+            /* transform: rotateY(50deg); */
+            /* transform: rotateZ(60deg); */
+
+
+                                              /* scale: boro kora box taka */
+            transform: scale(1.6);
+            /* transform: scaleX(1.8); */
+            /* transform: scaleY(1.0)A; */
+            /* transform: scaleZ(2.3); */
+            
+            transform: skew(6deg);                 /* skew kon ta ghura jai  */
+            transform: skewX(9deg);         /* skew X hoy na */
+            transform: skewY(10deg);
+            transform: skewZ(20deg);
+            
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .container {
+            width: 100vw;
+            height: 80vh;
+            border: 4px solid purple;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="box">box
+
+        </div>
+    </div>
+
+</body>
+
+</html>
