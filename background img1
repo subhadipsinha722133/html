@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-image: url(/30000.jpg);
+            background-size: 40%;
+            /* background-repeat: repeat-x; */
+            background-repeat: no-repeat;
+            background-position: right top;
+        }
+    </style>
+</head>
+<body>
+    <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente iste eaque earum distinctio explicabo voluptate. Mollitia, laborum quibusdam numquam placeat quo eligendi eos consequatur suscipit porro rem. Expedita, reprehenderit accusamus. Consectetur, nesciunt sapiente. Quia explicabo, ipsam quas aliquid quae eligendi sapiente voluptatibus, placeat labore dolorum autem aspernatur doloribus repellat consectetur, vel obcaecati! Excepturi quo eos rem aut tempore non optio! Tempore mollitia eligendi doloribus minima beatae numquam temporibus. Nam eaque nihil, necessitatibus at velit repellat. Ab architecto veritatis quibusdam rem. Optio aperiam omnis temporibus maiores excepturi saepe dicta a, neque ullam quaerat harum quod mollitia tempora quam aspernatur hic odio.</div>
+</body>
+</html>
