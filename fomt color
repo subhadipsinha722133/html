@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>p {
+    color: white;
+    background-color: blueviolet;
+}</style>
+</head>
+
+<body>
+    <h1>this is heading </h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente saepe nihil blanditiis deserunt. Quia veritatis
+        quibusdam ullam obcaecati placeat, laboriosam at delectus aut, quos ipsa qui, hic ratione dolorum earum.
+    </p>
+    <h3>this is 2da heading</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium rem, asperiores veritatis exercitationem
+        quaerat sed. Dolorum voluptatem dolor provident recusandae iure ab, dolores odio delectus suscipit cumque unde,
+        repellat sapiente culpa non. Tenetur quaerat, labore dolorem velit eaque iste sequi accusantium vitae quo in et
+        odit esse unde ducimus impedit, ea soluta! Aliquam natus, temporibus ex voluptates libero necessitatibus
+        dolorem.</p>
+</body>
+
+</html>
